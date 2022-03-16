@@ -1,6 +1,7 @@
 {
   "Header": {
-    "title": "Train. Lift. Grow.",
+    "title": "Train. Lift.",
+    "title2": "Grow.",
     "paragraph": "Strength comes from lifting yourself up when you needed it the most"
   },
   "About": {
@@ -25,7 +26,7 @@
       "name": "Gaby Zapata",
       "mission": "Gaby is a certified personal trainer through NASM. She is a seasoned veteran in personal training with 20 plus years of experience. Originally she was an architect, but became a stay at home mom taking care of her 4 kids including Gabriel.",
       "img": "img/gabe.jpg",
-      "ig": "z_f1t/",
+      "ig": "zgabygo/",
       "tel": "7145954417"
     }
   ],
@@ -180,7 +181,7 @@
   "Contact": {
     "address": "https://www.google.com/maps?q=1900+N+Tustin+St.+Orange,+CA+92865&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjwp6iVpKX2AhVfJ0QIHUBIChEQ_AUoAXoECAEQAw ",
     "phone": "17143191836",
-    "email": "info@company.com",
+    "email": "Gabrielzapata23@yahoo.com",
     "facebook": "https://www.facebook.com/gabrielzapata23",
     "twitter": "twitter.com",
     "youtube": "youtube.com",

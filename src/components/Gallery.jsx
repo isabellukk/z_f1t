@@ -6,7 +6,6 @@ export const Gallery = (props) => {
       <div className="container">
         <div className="section-title">
           <h2>Gallery</h2>
-          <p>(Click to enlarge)</p>
         </div>
         <div className="row">
           <div className="image-containerr">

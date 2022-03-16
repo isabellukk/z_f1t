@@ -10,6 +10,7 @@ import { Contact } from "./components/Contact.jsx";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 
+
 export const scroll = new SmoothScroll('a[href*="#"]', {
   speed: 1000,
   speedAsDuration: true,
@@ -30,7 +31,9 @@ const App = () => {
       <Team data={landingPageData.Team} />
       <Services data={landingPageData.Services} />
       <Gallery data={landingPageData.Gallery} />
-      <Contact data={landingPageData.Contact} />
+      <Contact data={landingPageData.Contact} email={process.env.REACT_APP_EMAIL_ID} service={process.env.REACT_APP_SERVICE_ID}
+      template={process.env.REACT_APP_TEMPLATE_ID}
+         />
     </Router>
   );
 };

@@ -1,6 +1,9 @@
 import { useState } from "react";
 import emailjs from "emailjs-com";
 
+const { REACT_APP_EMAIL_ID, REACT_APP_TEMPLATE_ID, REACT_APP_SERVICE_ID } =
+  process.env;
+
 const initialState = {
   name: "",
   email: "",
@@ -24,12 +27,13 @@ export const Contact = (props) => {
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log(name, email, message);
+    console.log("hi");
     emailjs
       .sendForm(
-        oopsie,
-        security,
+        `${REACT_APP_SERVICE_ID}`,
+        `${REACT_APP_TEMPLATE_ID}`,
         e.target,
-        control
+        `${REACT_APP_EMAIL_ID}`
       )
       .then(
         (result) => {
@@ -143,7 +147,9 @@ export const Contact = (props) => {
                   <i className="fa fa-envelope-o"></i>
                   Email
                 </span>{" "}
-                {props.data ? props.data.email : "loading"}
+                <a href="mailto:Gabrielzapata23@yahoo.com">
+                  Gabrielzapata23@yahoo.com
+                </a>
               </p>
             </div>
           </div>
@@ -154,11 +160,6 @@ export const Contact = (props) => {
                   <li>
                     <a href={props.data ? props.data.facebook : "/"}>
                       <i className="fa fa-facebook"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href={props.data ? props.data.twitter : "/"}>
-                      <i className="fa fa-twitter"></i>
                     </a>
                   </li>
                   <li>
