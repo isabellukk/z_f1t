@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { BrowserRouter as Router } from "react-router-dom";
+import { Navi } from './components/Navi.jsx';
 import { Header } from "./components/Header.jsx";
 import { About } from "./components/About.jsx";
 import JsonData from "./data/data.json";
@@ -19,6 +20,7 @@ const App = () => {
 
   return (
     <Router>
+      <Navi data={landingPageData.Contact}/>
       <Header data={landingPageData.Header} />
       <About data={landingPageData.About} />
     </Router>
