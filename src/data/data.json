@@ -14,24 +14,22 @@
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     ]
   },
-  "Team": [
+  "Team": [{
+      "name": "Gabriel Zapata",
+      "mission": "Gabriel is a certified personal trainer through NASM (National Academy of Sports Medicine). He has a bachelors degree in Kinesiology, specializing in strength & conditioning. He has been training athletes since 2019.",
+      "img": "img/gabe.jpg",
+      "ig": "z_f1t/",
+      "tel": "7143191836"
+    },
     {
-    "name":  "Gabriel Zapata",
-    "mission": "Gabriel is a certified personal trainer through NASM (National Academy of Sports Medicine). He has a bachelors degree in Kinesiology, specializing in strength & conditioning. He has been training athletes since 2019.",
-    "img" : "img/gabe.jpg",
-    "ig" : "z_f1t/",
-    "tel": "7143191836"
-  },
-  {
-    "name": "Gaby Zapata",
-    "mission": "Gaby is a certified personal trainer through NASM. She is a seasoned veteran in personal training with 20 plus years of experience. Originally she was an architect, but became a stay at home mom taking care of her 4 kids including Gabriel.",
-    "img": "img/gabe.jpg",
-    "ig" : "z_f1t/",
-    "tel": "7145954417"
-  }
-],
-  "Gallery": [
-    {
+      "name": "Gaby Zapata",
+      "mission": "Gaby is a certified personal trainer through NASM. She is a seasoned veteran in personal training with 20 plus years of experience. Originally she was an architect, but became a stay at home mom taking care of her 4 kids including Gabriel.",
+      "img": "img/gabe.jpg",
+      "ig": "z_f1t/",
+      "tel": "7145954417"
+    }
+  ],
+  "Gallery": [{
       "title": "Click to Enlarge",
       "largeImage": "img/gallery/pic1.jpeg",
       "smallImage": "img/gallery/pic1.jpeg"
@@ -112,8 +110,7 @@
       "smallImage": "img/gallery/pic16.jpeg"
     }
   ],
-  "Client": [
-    {
+  "Client": [{
       "title": "Project Title",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
@@ -159,8 +156,7 @@
       "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
-  "Services": [
-    {
+  "Services": [{
       "icon": "fa fa-user-friends",
       "name": "1 on 1 Training",
       "text": ""

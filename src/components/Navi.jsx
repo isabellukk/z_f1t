@@ -1,7 +1,6 @@
-import React from "react"
+import React from "react";
 import { Link } from "react-scroll";
 import { useState } from "react";
-
 
 export const Navi = (props) => {
   const [show, setShow] = useState(false);
@@ -9,92 +8,97 @@ export const Navi = (props) => {
     setShow(false);
   };
   return (
-    <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
-      <div className='container'>
-        <div className='navbar-header'>
+    <nav id="menu" className="navbar navbar-default navbar-fixed-top">
+      <div className="container">
+        <div className="navbar-header">
           <button
-            type='button'
-            className='navbar-toggle collapsed'
+            type="button"
+            className="navbar-toggle collapsed"
             onClick={() => setShow(!show)}
           >
-            <span className='sr-only'>Toggle navigation</span>
-            <span className='icon-bar'></span>
-            <span className='icon-bar'></span>
-            <span className='icon-bar'></span>
+            <span className="sr-only">Toggle navigation</span>
+            <span className="icon-bar"></span>
+            <span className="icon-bar"></span>
+            <span className="icon-bar"></span>
           </button>
-          <a className='navbar-brand page-scroll nav-header' href='#top'>
+          <a className="navbar-brand page-scroll nav-header" href="#top">
             Zfit
           </a>
         </div>
 
         <div
           className={`collapse navbar-collapse  ${show ? "show" : ""}`}
-        id="navbarCollapse"
+          id="navbarCollapse"
         >
-          <ul className='nav navbar-nav navbar-right aligntest'>
+          <ul className="nav navbar-nav navbar-right aligntest">
             <li>
               <Link
                 onClick={handleNavClick}
-                className='nav-link'
-                to='about'
+                className="nav-link"
+                to="about"
                 spy={true}
                 smooth={true}
                 offset={-80}
                 duration={500}
-                >ABOUT
+              >
+                ABOUT
               </Link>
             </li>
             <li>
               <Link
                 onClick={handleNavClick}
-                className='nav-link'
-                to='team'
+                className="nav-link"
+                to="team"
                 spy={true}
                 smooth={true}
                 offset={-90}
                 duration={500}
-                >TEAM
+              >
+                TEAM
               </Link>
             </li>
             <li>
               <Link
                 onClick={handleNavClick}
-                className='nav-link'
-                to='services'
+                className="nav-link"
+                to="services"
                 spy={true}
                 smooth={true}
                 offset={-90}
                 duration={500}
-                >SERVICES
+              >
+                SERVICES
               </Link>
             </li>
             <li>
               <Link
                 onClick={handleNavClick}
-                className='nav-link'
-                to='gallery'
+                className="nav-link"
+                to="gallery"
                 spy={true}
                 smooth={true}
                 offset={-100}
                 duration={500}
-                >GALLERY
+              >
+                GALLERY
               </Link>
             </li>
             <li>
               <Link
                 onClick={handleNavClick}
-                className='nav-link'
-                to='contact'
+                className="nav-link"
+                to="contact"
                 spy={true}
                 smooth={true}
                 offset={-70}
                 duration={500}
-                >CONTACT
+              >
+                CONTACT
               </Link>
             </li>
           </ul>
         </div>
       </div>
     </nav>
-  )
-}
+  );
+};
