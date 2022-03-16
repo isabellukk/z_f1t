@@ -1,0 +1,215 @@
+{
+  "Header": {
+    "title": "Train. Lift. Grow.",
+    "paragraph": "Strength comes from lifting yourself up when you needed it the most"
+  },
+  "About": {
+    "paragraph1": [
+      "In October of 2019 Gabriel & Gaby became certified personal trainers through NASM. They began their journey at Fitness 19 where they help achieved their clients goals. However, in March of 2020 the pandemic shut down all gyms where they both decided to continue their training, but at their home gym."
+    ],
+    "paragraph2": [
+      "It was there where they both continued their success in personal training. Their popularity grew & it was time to take the next step. Gabriel wanted to expand the business to Self Made Training Facility where he would continue to grow & Gaby would have control over the home gym. Z FIT has two locations, Yorba Linda & Orange. Gaby trains clients in Yorba Linda & Gabriel trains clients in Orange."
+    ],
+    "paragraph3": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    ]
+  },
+  "Team": [
+    {
+    "name":  "Gabriel Zapata",
+    "mission": "Gabriel is a certified personal trainer through NASM (National Academy of Sports Medicine). He has a bachelors degree in Kinesiology, specializing in strength & conditioning. He has been training athletes since 2019.",
+    "img" : "img/gabe.jpg",
+    "ig" : "z_f1t/",
+    "tel": "7143191836"
+  },
+  {
+    "name": "Gaby Zapata",
+    "mission": "Gaby is a certified personal trainer through NASM. She is a seasoned veteran in personal training with 20 plus years of experience. Originally she was an architect, but became a stay at home mom taking care of her 4 kids including Gabriel.",
+    "img": "img/gabe.jpg",
+    "ig" : "z_f1t/",
+    "tel": "7145954417"
+  }
+],
+  "Gallery": [
+    {
+      "title": "Click to Enlarge",
+      "largeImage": "img/gallery/pic1.jpeg",
+      "smallImage": "img/gallery/pic1.jpeg"
+    },
+    {
+      "title": "Click to Enlarge",
+      "largeImage": "img/gallery/pic2.jpeg",
+      "smallImage": "img/gallery/pic2.jpeg"
+    },
+    {
+      "title": "Click to Enlarge",
+      "largeImage": "img/gallery/pic3.jpeg",
+      "smallImage": "img/gallery/pic3.jpeg"
+    },
+    {
+      "title": "Click to Enlarge",
+      "largeImage": "img/gallery/pic4.jpeg",
+      "smallImage": "img/gallery/pic4.jpeg"
+    },
+    {
+      "title": "Click to Enlarge",
+      "largeImage": "img/gallery/pic5.jpeg",
+      "smallImage": "img/gallery/pic5.jpeg"
+    },
+    {
+      "title": "Click to Enlarge",
+      "largeImage": "img/gallery/pic6.jpeg",
+      "smallImage": "img/gallery/pic6.jpeg"
+    },
+    {
+      "title": "Click to Enlarge",
+      "largeImage": "img/gallery/pic7.jpeg",
+      "smallImage": "img/gallery/pic7.jpeg"
+    },
+    {
+      "title": "Click to Enlarge",
+      "largeImage": "img/gallery/pic8.jpeg",
+      "smallImage": "img/gallery/pic8.jpeg"
+    },
+    {
+      "title": "Click to Enlarge",
+      "largeImage": "img/gallery/pic9.jpeg",
+      "smallImage": "img/gallery/pic9.jpeg"
+    },
+    {
+      "title": "Click to Enlarge",
+      "largeImage": "img/gallery/pic10.jpeg",
+      "smallImage": "img/gallery/pic10.jpeg"
+    },
+    {
+      "title": "Click to Enlarge",
+      "largeImage": "img/gallery/pic11.jpeg",
+      "smallImage": "img/gallery/pic11.jpeg"
+    },
+    {
+      "title": "Click to Enlarge",
+      "largeImage": "img/gallery/pic12.jpeg",
+      "smallImage": "img/gallery/pic12.jpeg"
+    },
+    {
+      "title": "Click to Enlarge",
+      "largeImage": "img/gallery/pic13.jpeg",
+      "smallImage": "img/gallery/pic13.jpeg"
+    },
+    {
+      "title": "Click to Enlarge",
+      "largeImage": "img/gallery/pic14.jpeg",
+      "smallImage": "img/gallery/pic14.jpeg"
+    },
+    {
+      "title": "Click to Enlarge",
+      "largeImage": "img/gallery/pic15.jpeg",
+      "smallImage": "img/gallery/pic15.jpeg"
+    },
+    {
+      "title": "Click to Enlarge",
+      "largeImage": "img/gallery/pic16.jpeg",
+      "smallImage": "img/gallery/pic16.jpeg"
+    }
+  ],
+  "Client": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-user-friends",
+      "name": "1 on 1 Training",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-users",
+      "name": "Group Training",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-laptop",
+      "name": "Online Training",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-chalkboard-teacher",
+      "name": "Online Training",
+      "text": "(in person check-ins)"
+    }
+  ],
+  "Contact": {
+    "address": "https://www.google.com/maps?q=1900+N+Tustin+St.+Orange,+CA+92865&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjwp6iVpKX2AhVfJ0QIHUBIChEQ_AUoAXoECAEQAw ",
+    "phone": "17143191836",
+    "email": "info@company.com",
+    "facebook": "https://www.facebook.com/gabrielzapata23",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com",
+    "instagram": "https://www.instagram.com/z_f1t/"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
