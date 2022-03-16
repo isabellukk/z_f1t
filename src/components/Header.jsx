@@ -1,7 +1,10 @@
 export const Header = (props) => {
   return (
-    <header id='header'>
-
+    <div id='header'>
+      <div className='intro'>
+        <div className='overlay'>
+          <div className='container'>
+            <div className='row'>
               <div className='col-md-8 col-md-offset-2 intro-text'>
                 <h1>
                   {props.data ? props.data.title : 'Loading'}
@@ -9,6 +12,10 @@ export const Header = (props) => {
                 </h1>
                 <p>{props.data ? props.data.paragraph : 'Loading'}</p>
               </div>
-    </header>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   )
 }
