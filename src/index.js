@@ -6,7 +6,6 @@ import App from './App';
 ReactDOM.render(
   <React.StrictMode>
     <App  />
-      require('dotenv').config();
   </React.StrictMode>,
   document.getElementById('root')
 );
