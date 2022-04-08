@@ -32,83 +32,103 @@
   ],
   "Gallery": [{
       "title": "Click to Enlarge",
-      "largeImage": "img/gallery/pic1.jpeg",
-      "smallImage": "img/gallery/pic1.jpeg"
+      "largeImage": "img/gallery/gallery1.jpeg",
+      "smallImage": "img/gallery/gallery1.jpeg"
     },
     {
       "title": "Click to Enlarge",
-      "largeImage": "img/gallery/pic2.jpeg",
-      "smallImage": "img/gallery/pic2.jpeg"
+      "largeImage": "img/gallery/gallery2.jpeg",
+      "smallImage": "img/gallery/gallery2.jpeg"
     },
     {
       "title": "Click to Enlarge",
-      "largeImage": "img/gallery/pic3.jpeg",
-      "smallImage": "img/gallery/pic3.jpeg"
+      "largeImage": "img/gallery/gallery3.jpeg",
+      "smallImage": "img/gallery/gallery3.jpeg"
     },
     {
       "title": "Click to Enlarge",
-      "largeImage": "img/gallery/pic4.jpeg",
-      "smallImage": "img/gallery/pic4.jpeg"
+      "largeImage": "img/gallery/gallery4.jpeg",
+      "smallImage": "img/gallery/gallery4.jpeg"
     },
     {
       "title": "Click to Enlarge",
-      "largeImage": "img/gallery/pic5.jpeg",
-      "smallImage": "img/gallery/pic5.jpeg"
+      "largeImage": "img/gallery/gallery5.jpeg",
+      "smallImage": "img/gallery/gallery5.jpeg"
     },
     {
       "title": "Click to Enlarge",
-      "largeImage": "img/gallery/pic6.jpeg",
-      "smallImage": "img/gallery/pic6.jpeg"
+      "largeImage": "img/gallery/gallery6.jpeg",
+      "smallImage": "img/gallery/gallery6.jpeg"
     },
     {
       "title": "Click to Enlarge",
-      "largeImage": "img/gallery/pic7.jpeg",
-      "smallImage": "img/gallery/pic7.jpeg"
+      "largeImage": "img/gallery/gallery7.jpeg",
+      "smallImage": "img/gallery/gallery7.jpeg"
     },
     {
       "title": "Click to Enlarge",
-      "largeImage": "img/gallery/pic8.jpeg",
-      "smallImage": "img/gallery/pic8.jpeg"
+      "largeImage": "img/gallery/gallery8.jpeg",
+      "smallImage": "img/gallery/gallery8.jpeg"
     },
     {
       "title": "Click to Enlarge",
-      "largeImage": "img/gallery/pic9.jpeg",
-      "smallImage": "img/gallery/pic9.jpeg"
+      "largeImage": "img/gallery/gallery9.jpeg",
+      "smallImage": "img/gallery/gallery9.jpeg"
     },
     {
       "title": "Click to Enlarge",
-      "largeImage": "img/gallery/pic10.jpeg",
-      "smallImage": "img/gallery/pic10.jpeg"
+      "largeImage": "img/gallery/gallery10.jpeg",
+      "smallImage": "img/gallery/gallery10.jpeg"
     },
     {
       "title": "Click to Enlarge",
-      "largeImage": "img/gallery/pic11.jpeg",
-      "smallImage": "img/gallery/pic11.jpeg"
+      "largeImage": "img/gallery/gallery11.jpeg",
+      "smallImage": "img/gallery/gallery11.jpeg"
     },
     {
       "title": "Click to Enlarge",
-      "largeImage": "img/gallery/pic12.jpeg",
-      "smallImage": "img/gallery/pic12.jpeg"
+      "largeImage": "img/gallery/gallery12.jpeg",
+      "smallImage": "img/gallery/gallery12.jpeg"
     },
     {
       "title": "Click to Enlarge",
-      "largeImage": "img/gallery/pic13.jpeg",
-      "smallImage": "img/gallery/pic13.jpeg"
+      "largeImage": "img/gallery/gallery13.jpeg",
+      "smallImage": "img/gallery/gallery13.jpeg"
     },
     {
       "title": "Click to Enlarge",
-      "largeImage": "img/gallery/pic14.jpeg",
-      "smallImage": "img/gallery/pic14.jpeg"
+      "largeImage": "img/gallery/gallery14.jpeg",
+      "smallImage": "img/gallery/gallery14.jpeg"
     },
     {
       "title": "Click to Enlarge",
-      "largeImage": "img/gallery/pic15.jpeg",
-      "smallImage": "img/gallery/pic15.jpeg"
+      "largeImage": "img/gallery/gallery15.jpeg",
+      "smallImage": "img/gallery/gallery15.jpeg"
     },
     {
       "title": "Click to Enlarge",
-      "largeImage": "img/gallery/pic16.jpeg",
-      "smallImage": "img/gallery/pic16.jpeg"
+      "largeImage": "img/gallery/gallery16.jpeg",
+      "smallImage": "img/gallery/gallery16.jpeg"
+    },
+    {
+      "title": "Click to Enlarge",
+      "largeImage": "img/gallery/gallery17.jpeg",
+      "smallImage": "img/gallery/gallery17.jpeg"
+    },
+    {
+      "title": "Click to Enlarge",
+      "largeImage": "img/gallery/gallery18.jpeg",
+      "smallImage": "img/gallery/gallery18.jpeg"
+    },
+    {
+      "title": "Click to Enlarge",
+      "largeImage": "img/gallery/gallery19.jpeg",
+      "smallImage": "img/gallery/gallery19.jpeg"
+    },
+    {
+      "title": "Click to Enlarge",
+      "largeImage": "img/gallery/gallery20.jpeg",
+      "smallImage": "img/gallery/gallery20.jpeg"
     }
   ],
   "Client": [{
