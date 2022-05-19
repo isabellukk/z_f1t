@@ -101,7 +101,6 @@ hr {
   display: flex;
 }
 
-
 /* .nav-logo {
   width: 40px;
 } */
@@ -125,7 +124,6 @@ hr {
   text-transform: uppercase;
   letter-spacing: 14px;
   position: fixed;
-
 }
 
 #menu.navbar-default .navbar-nav>li>a {
@@ -141,7 +139,6 @@ hr {
   display: flex;
   width: 100%;
 }
-
 
 #menu.navbar-default .navbar-nav>li>a:after {
   display: block;
@@ -208,8 +205,8 @@ hr {
 }
 
 #gallery img:hover {
-    transform: scale(1.08);
-  }
+  transform: scale(1.08);
+}
 
 .image-container {
   vertical-align: middle;
@@ -219,7 +216,6 @@ hr {
   overflow-x: auto;
   overflow-y: hidden;
 }
-
 
 .section-title {
   margin-bottom: 70px;
@@ -341,9 +337,6 @@ a:focus,
   text-transform: uppercase;
 }
 
-
-
-
 .intro h2 {
   font-family: 'Raleway', sans-serif;
   color: #f1eef0;
@@ -352,8 +345,6 @@ a:focus,
   text-transform: uppercase;
   margin-top: 0;
   margin-bottom: 10px;
-
-
 }
 
 .intro h1 span {
@@ -458,7 +449,7 @@ header .intro-text {
   border-right: 0;
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.06);
   clip-path: circle(radius at x, y);
-clip-path: background: url(../img/intro-bg.jpg);
+  clip-path: background: url(../img/intro-bg.jpg);
 }
 
 #about p {
@@ -475,7 +466,6 @@ clip-path: background: url(../img/intro-bg.jpg);
   color: #e57254;
   font-size: 2rem;
   letter-spacing: 2px;
-
 }
 
 #gallery p {
@@ -528,7 +518,10 @@ clip-path: background: url(../img/intro-bg.jpg);
 }
 
 .trainer-info {
-  box-shadow: none;
+  box-shadow: rgba(238, 231, 225, 0.09) 20px 20px 20px;
+}
+
+.trainer-info {
   border-radius: 0px;
   margin-top: 5%;
   margin-bottom: 10%;
@@ -620,7 +613,7 @@ clip-path: background: url(../img/intro-bg.jpg);
   margin-top: 10px;
   background: black;
   border-right: 0;
-  box-shadow: 0 0 50px rgba(0, 0, 0, 0.06);
+  box-shadow: rgba(63, 65, 66, 0.69) 20px 20px 20px;
 }
 
 #team p {
@@ -671,7 +664,6 @@ clip-path: background: url(../img/intro-bg.jpg);
   color: #297474;
   padding-top: 10px;
 } */
-
 a:not([href]):not([tabindex]) {
   color: white !important;
   padding: 10px;
@@ -737,6 +729,9 @@ a:not([href]):not([tabindex]) {
   padding: 8%;
 }
 
+/* #about .about-text-container {
+  box-shadow: rgba(53, 50, 50, 0.5) -5px 5px, rgba(53, 50, 50, 0.4) -10px 10px, rgba(53, 50, 50, 0.3) -15px 15px, rgba(53, 50, 50, 0.2) -20px 20px, rgba(53, 50, 50, 0.1) -25px 25px, rgba(53, 50, 50, 0.05) -30px 30px;
+} */
 /* Testimonials Section */
 #testimonials {
   padding: 100px 0;
@@ -792,7 +787,6 @@ a:not([href]):not([tabindex]) {
   color: #e7e5e6;
 }
 
-
 #contact a {
   color: #c5bfbb;
 }
@@ -843,7 +837,6 @@ a:not([href]):not([tabindex]) {
   font-size: 1.5rem;
   color: white;
 } */
-
 #team i.fa:hover {
   font-size: 1.5rem;
   color: white;
@@ -853,22 +846,26 @@ a:not([href]):not([tabindex]) {
   display: flex;
   justify-content: center;
 }
+
 .team-page-social a {
   padding-left: 20%;
   padding-right: 20%;
 }
+
 .insta {
   padding-top: 2%;
   padding-left: 10px;
   padding-right: 10px;
   color: #297474;
 }
+
 .text {
   padding-top: 2%;
   padding-left: 10px;
   padding-right: 10px;
 }
-.social-icons i.fa, a{
+
+.social-icons i.fa, a {
   /* display: flex;
   justify-content: space-around; */
   font-size: 15px;
@@ -877,7 +874,8 @@ a:not([href]):not([tabindex]) {
   color: #fff;
   transition: all 0.3s;
 }
-#team a{
+
+#team a {
   color: #7c9c9c;
   padding-top: 5%;
   box-shadow: 0px 15px 10px -15px #ffff !important;
@@ -1114,8 +1112,6 @@ label {
         #000000 100%);
   }
 
-
-
   .section-title {
     margin-bottom: 1px;
   }
@@ -1139,11 +1135,13 @@ label {
   #contact .social i.fa {
     border: none;
   }
+
   #services i.fa {
     height: 20px;
     background: none !important;
     padding: none !important;
   }
+
   #services .service-icons {
     display: flex;
     flex-direction: row;
@@ -1153,13 +1151,14 @@ label {
     margin-left: 10%;
     min-width: 80vw;
   }
-  #services .service-desc h3{
+
+  #services .service-desc h3 {
     font-size: 12px !important;
     padding-top: 1px;
   }
-  #services .service-desc p{
-    font-size: 5px !important;
 
+  #services .service-desc p {
+    font-size: 5px !important;
   }
 
   #contact .social {
@@ -1212,7 +1211,6 @@ label {
 
   #services .row i.fa h3 {
     font-size: 0.6rem;
-
   }
 
   #services {
@@ -1259,6 +1257,7 @@ label {
     width: 90vw;
     padding-right: 20px;
   }
+
   #menu.navbar-default {
     padding-left: 20px;
   }
@@ -1293,14 +1292,14 @@ label {
 
 /* small iphone */
 @media (max-width: 376px) {
-
   #services {
     padding-left: 5%;
-    }
+  }
 
-    #services i.fa {
+  #services i.fa {
     padding-right: 20%;
-    }
+  }
+
   .trainer-info {
     box-shadow: none;
     border-radius: 0px;
@@ -1330,11 +1329,11 @@ label {
 
 /* iphone pro max */
 @media (max-width: 428px) {
-
   #gallery img {
     width: 80%;
     margin-left: 10%;
   }
+
   #about img {
     width: 80%;
     padding-left: 5%;
@@ -1346,18 +1345,18 @@ label {
   #services {
     padding-left: 5%;
     padding-right: 5%;
-    }
+  }
 
-  #services .service-desc h3{
+  #services .service-desc h3 {
     font-size: 14px !important;
     padding-top: 1px;
   }
-  #services .service-desc p{
-    font-size: 7px !important;
 
+  #services .service-desc p {
+    font-size: 7px !important;
   }
-  #services
-  .trainer-info {
+
+  #services .trainer-info {
     box-shadow: none;
     border-radius: 0px;
     margin-top: 5%;
@@ -1372,7 +1371,7 @@ label {
   .trainer-offset:after {
     content: '';
     position: absolute;
-    top: 24%;
+    top: 19%;
     left: 16%;
     margin-top: 90%;
     padding-top: 60% !important;

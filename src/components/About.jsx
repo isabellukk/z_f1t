@@ -3,10 +3,10 @@ export const About = (props) => {
     <div id="about">
       <div className="container">
         <div className="row">
-          <div className="col-xs-12 col-md-6">
+          <div className="col-xs-12 col-md-6 ">
             <div className="about-text">
               <h2>About</h2>
-              <div className="about-text-container">
+              <div className="about-text-container box-shadows">
                 <h3>Our Story</h3>
                 <p>{
                     props.data
